@@ -1,231 +1,296 @@
 {
   "Language updated!": {
     "fr": "Langue définie avec succès !",
-    "jp": "言語が更新された。"
+    "jp": "言語が更新された。",
+    "pt": "Idioma atualizado!"
   },
   "View server settings": {
     "fr": "Voir les réglages du serveur",
-    "jp": "コンフィグを表示する。"
+    "jp": "コンフィグを表示する。",
+    "pt": "Exibir configurações do servidor"
   },
   "Display information about a character": {
     "fr": "Montrer les informations sur une personnage",
-    "jp": "キャラクターの情報を表示する。"
+    "jp": "キャラクターの情報を表示する。",
+    "pt": "Exibir informações sobre um personagem"
   },
   "View all the characters for the server": {
     "fr": "Voir tous les personnages du serveur",
-    "jp": "サーバのキャラクターをみんな見る。"
+    "jp": "サーバのキャラクターをみんな見る。",
+    "pt": "Exibir todos os personagens do servidor"
   },
   "Give an item from your inventory to another character.\nUsage:\n    - rp!give Banana 5 @Henry#8808\n    - rp!give Banana 6 charname": {
-    "fr": "Donner un item de votre inventaire à une autre personnage.\nUtilisation:\n    - rp!give Banane 5 @Henry#8808\n    - rp!give Banane 6 nom"
+    "fr": "Donner un item de votre inventaire à une autre personnage.\nUtilisation:\n    - rp!give Banane 5 @Henry#8808\n    - rp!give Banane 6 nom",
+    "pt": "Dar um item do seu inventário para outro personagem.\nUso:\n    - rp!give Banana 5 @Henry#8808\n    - rp!give Banana 6 nomeDoPersonagem"
   },
   "View your or another user's inventory": {
     "fr": "Voir votre inventaire ou l'inventaire d'un autre personnage.",
-    "jp": "あなたや別個なキャラクターの在庫を見る。"
+    "jp": "あなたや別個なキャラクターの在庫を見る。",
+    "pt": "Exibir seu inventário ou o de outro jogador"
   },
   "Give an item to a number of characters as an administrator, rather than from your inventory\nUsage:\n    - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banana 13 mycharacter character2\n    - rp!giveitem Banana 14 @Administrators @\u200Beveryone": {
-    "fr": "Donner un item à quelques personnages comme administrateur, pas de votre inventaire\nUtilisation:\n    - rp!giveitem Banane 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banane 13 perso1 perso2\n    - rp!giveitem Banane 14 @Administrateurs @\u200Beveryone"
+    "fr": "Donner un item à quelques personnages comme administrateur, pas de votre inventaire\nUtilisation:\n    - rp!giveitem Banane 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banane 13 perso1 perso2\n    - rp!giveitem Banane 14 @Administrateurs @\u200Beveryone",
+    "pt": "Dar um item a um número de personagem como administrador, e não a partir do seu inventário\nUso:\n    - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banana 13 personagem1 personagem2\n    - rp!giveitem Banana 14 @Administrators @\u200Beveryone"
   },
   "See the items for the server": {
     "fr": "Voir les items du serveur",
-    "jp": "サーバのアイテムをみんな見る。"
+    "jp": "サーバのアイテムをみんな見る。",
+    "pt": "Ver os items do servidor"
   },
   "Subcommands for items and view info about an item\nUsage: rp!item Banana": {
-    "fr": "Sous-commandes pour les items et voir les informations sur un item\nUtilisation: rp!item Banane"
+    "fr": "Sous-commandes pour les items et voir les informations sur un item\nUtilisation: rp!item Banane",
+    "pt": "Subcomandos para itens e exibir informações sobre um item\nUso: rp!item Banana"
   },
   "View your money": {
     "fr": "Voir votre argent",
-    "jp": "お金を見る。"
+    "jp": "お金を見る。",
+    "pt": "Exibir seu dinheiro"
   },
   "Subcommands for economy": {
     "fr": "Sous-commandes pour l'économie",
-    "jp": "エコノミーのサブコマンドを見る"
+    "jp": "エコノミーのサブコマンドを見る",
+    "pt": "Subcomandos para economia"
   },
   "Give money to users, same syntax as rp!giveitem": {
-    "fr": "Donner l'argent aux personnages, syntax est la pareille à rp!giveitem"
+    "fr": "Donner l'argent aux personnages, syntax est la pareille à rp!giveitem",
+    "pt": "Dar dinheiro para usuários, mesma sintaxe de rp!giveitem"
   },
   "Pay money from your pocket to another user": {
-    "fr": "Paier l'argent de votre poche à une autre personnage"
+    "fr": "Paier l'argent de votre poche à une autre personnage",
+    "pt": "Pagar dinheiro do seu bolso para outro usuário"
   },
   "View all the guilds for a server": {
     "fr": "Voir toutes les guildes du serveur",
-    "jp": "サーバのギルドをみんな見る。"
+    "jp": "サーバのギルドをみんな見る。",
+    "pt": "Exibir todas as guildas do servidor"
   },
   "Deposit money from your pocket into the bank": {
     "fr": "Depenser de l'argent de votre poche dans la banque",
-    "jp": "小遣いから銀行に貯金をする。"
+    "jp": "小遣いから銀行に貯金をする。",
+    "pt": "Depositar dinheiro do seu bolso no banco"
   },
   "Withdraw money from the bank into your pocket": {
     "fr": "Retirer de l'argent de la banque à votre poche",
-    "jp": "銀行から小遣いにお金を下ろす。"
+    "jp": "銀行から小遣いにお金を下ろす。",
+    "pt": "Retirar dinheiro do banco para o seu bolso"
   },
   "You are not assumed!": {
-    "fr": "Vous n'avez pas assumé une personnage."
+    "fr": "Vous n'avez pas assumé une personnage.",
+    "pt": "Você não associou um personagem."
   },
   "That is not a valid lottery!": {
     "fr": "Ce n'est pas une loterie valide",
-    "jp": "このロートが存在しない。"
+    "jp": "このロートが存在しない。",
+    "pt": "Esta não é uma loteria válida!"
   },
   "You're already in this lottery!": {
     "fr": "Vous avez déja rejoint cette loterie",
-    "jp": "もうこのロートに加わている"
+    "jp": "もうこのロートに加わている",
+    "pt": "Você já entrou dessa loteria!"
   },
   "Successfully joined the lottery!": {
     "fr": "Loterie rejointe avec succés !",
-    "jp": "ロートに加わた"
+    "jp": "ロートに加わた",
+    "pt": "Entrou com sucesso na loteria!"
   },
   "Money: ${:.2f}\nItems: {}\nTime Left: {}\nEntrants: {}": {
-    "fr": "Argent: ${:.2f}\nItems: {}\nTemps Restant: {}\nParticipants: {}"
+    "fr": "Argent: ${:.2f}\nItems: {}\nTemps Restant: {}\nParticipants: {}",
+    "pt": "Dinheiro: ${:.2f}\nItens: {}\nTempo Restante: {}\nParticipantes: {}"
   },
   "No active lotteries!": {
     "fr": "Aucune loteries actives",
-    "jp": "ロートがない"
+    "jp": "ロートがない",
+    "pt": "Sem loterias ativas!"
   },
   "Holds subcommands for lottery. See currently running lotteries": {
-    "fr": "Voir les sous-commandes pour la loterie et les loteries qui sont en train de passer."
+    "fr": "Voir les sous-commandes pour la loterie et les loteries qui sont en train de passer.",
+    "pt": "Visualize os subcomandos para loteria e as loterias que estão acontecendo."
   },
   "Create a lottery": {
     "fr": "Créer un loterie",
-    "jp": "ロートを作る。"
+    "jp": "ロートを作る。",
+    "pt": "Crie uma loteria"
   },
   "Enter the lottery with the given name": {
     "fr": "Rejoindre la loterie avec le nom donné",
-    "jp": "このロートに加わている"
+    "jp": "このロートに加わている",
+    "pt": "Participe da loteria com o nome informado"
   },
   "Successfully gave money": {
     "fr": "Argent donné avec succés",
-    "jp": "お金を払った"
+    "jp": "お金を払った",
+    "pt": "Dinheiro doado com sucesso"
   },
   "Character {} does not exist!": {
     "fr": "Personnage {} n'existe pas !",
-    "jp": "「{}」というキャラクターが存在しない"
+    "jp": "「{}」というキャラクターが存在しない",
+    "pt": "Personagem {} não existe!"
   },
   "{} is not currently assumed!": {
-    "fr": "{} n'est pas assumé actuellement"
+    "fr": "{} n'est pas assumé actuellement",
+    "pt": "{} não está atualmente associado."
   },
   "You don't have enough money to pay!": {
-    "fr": "Vous n'avez pas assez d'argent pour payer !"
+    "fr": "Vous n'avez pas assez d'argent pour payer !",
+    "pt": "Você não tem dinheiro suficiente para pagar!"
   },
   "You are not currently assumed!": {
-    "fr": "Vous n'êtes pas assumé actuellement"
+    "fr": "Vous n'êtes pas assumé actuellement",
+    "pt": "Você não está atualmente associado!"
   },
   "You cannot withdraw more money than you have in the bank!": {
-    "fr": "Vous ne pouvez pas retirer plus d'argent que vous avez dans la banque."
+    "fr": "Vous ne pouvez pas retirer plus d'argent que vous avez dans la banque.",
+    "pt": "Você não pode retirar mais dinheiro do que você possui no banco!"
   },
   "You cannot deposit more money than you have on you!": {
-    "fr": "Vous ne pouvez pas déposer plus d'argent que vous avez en main."
+    "fr": "Vous ne pouvez pas déposer plus d'argent que vous avez en main.",
+    "pt": "Você não pode depositar mais dinheiro do que tem com você!"
   },
   "On you:\t\t ${:.2f}\nIn the bank:\t ${:.2f}\nTotal:\t\t ${:.2f}": {
+    "pt": "Com você:\t\t ${:.2f}\nNo banco:\t ${:.2f}\nTotal:\t\t ${:.2f}"
   },
   "This command is disabled!": {
-    "fr": "Cette commande est désactivée"
+    "fr": "Cette commande est désactivée",
+    "pt": "Este comando está desativado!"
   },
   "Nobody entered the lottery!": {
-    "fr": "Personne n'a pas rejoint la loterie !"
+    "fr": "Personne n'a pas rejoint la loterie !",
+    "pt": "Ninguém participou da loteria!"
   },
   "{} was the winner!": {
     "fr": "{} a été le gagnant !",
-    "jp": "{}は勝った"
+    "jp": "{}は勝った",
+    "pt": "{} foi o vencedor!"
   },
   "Lottery does not exist!": {
     "fr": "Cette loterie n'existe pas !",
-    "jp": "そのロートが存在しない！"
+    "jp": "そのロートが存在しない！",
+    "pt": "Loteria não existe!"
   },
   "No characters!": {
     "fr": "Aucune personnage !",
-    "jp": "キャラクターがいない"
+    "jp": "キャラクターがいない",
+    "pt": "Sem personagens!"
   },
   "No aliases": {
-    "fr": "Aucune aliases !"
+    "fr": "Aucune aliases !",
+    "pt": "Sem pseudônimos"
   },
   "No region": {
-    "fr": "Aucun region !"
+    "fr": "Aucun region !",
+    "pt": "Sem região"
   },
   "None": {
-    "fr": "Aucun"
+    "fr": "Aucun",
+    "pt": "Nenhum"
   },
   "No attributes": {
-    "fr": "Pas d'attributs"
+    "fr": "Pas d'attributs",
+    "pt": "Sem atributos"
   },
   "Empty": {
-    "fr": "Vide"
+    "fr": "Vide",
+    "pt": "Vazio"
   },
   "That character does not exist!": {
     "fr": "Cette personnage n'existe pas !",
-    "jp": "そのキャラクターが存在しない！"
+    "jp": "そのキャラクターが存在しない！",
+    "pt": "Este personagem não existe!"
   },
   "Name": {
     "fr": "Nom",
-    "jp": "名前"
+    "jp": "名前",
+    "pt": "Nome"
   },
   "Owner": {
-    "fr": "Propriateur"
+    "fr": "Propriateur",
+    "pt": "Proprietário"
   },
   "Aliases": {
-    "fr": "Pseudonymes"
+    "fr": "Pseudonymes",
+    "pt": "Pseudônimos"
   },
   "That character does not belong to you!": {
     "fr": "Cela n'est pas votre personnage !",
-    "jp": "そのきゃらくたーはあなたのじゃない！"
+    "jp": "そのきゃらくたーはあなたのじゃない！",
+    "pt": "Este personagem não pertence a você!"
   },
   "Character assumed!": {
-    "fr": "Personnage assumée"
+    "fr": "Personnage assumée",
+    "pt": "Personagem associado!"
   },
   "Character unassumed!": {
-    "fr": "Personnage de-assumée !"
+    "fr": "Personnage de-assumée !",
+    "pt": "Personagem desassociado"
   },
   "Character deleted!": {
-    "fr": "Personnage supprimée"
+    "fr": "Personnage supprimée",
+    "pt": "Personagem removido!"
   },
   "A character with that name already exists!": {
-    "fr": "Une personnage avec ce nom existe déja !"
+    "fr": "Une personnage avec ce nom existe déja !",
+    "pt": "Um personagem com esse nome já existe!"
   },
   "Character aliased!": {
-    "fr": "Personnage pseudonommée"
+    "fr": "Personnage pseudonommée",
+    "pt": "Pseudônimo defindo para o personagem!"
   },
   "There is no character associated with this alias": {
-    "fr": "Il n'y a pas de personnage associée avec cette pseudonyme"
+    "fr": "Il n'y a pas de personnage associée avec cette pseudonyme",
+    "pt": "Não há personagem associado com esse pseudônimo"
   },
   "That alias belongs to another character!": {
-    "fr": "Cette pseudo appartient à une autre personnage"
+    "fr": "Cette pseudo appartient à une autre personnage",
+    "pt": "Este pseudônimo pertence a outro personagem!"
   },
   "Character alias removed!": {
-    "fr": "Pseudo supprimé !"
+    "fr": "Pseudo supprimé !",
+    "pt": "Pseudônimo do personagem removido!"
   },
   "Subcommands for importing data\n        Requires attached file\n        Import data from old RPGBot.\n        Valid datatypes to export:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata": {
-    "fr": "Sous-commandes pour importer vos données\n        Requiert un fichier attaché\n        Importer les données du vieux RPGBot.\n        Types des données valides en exportant:\n        - items\n        - personnages\n        - réglages\n        - guildes\n        - userdata"
+    "fr": "Sous-commandes pour importer vos données\n        Requiert un fichier attaché\n        Importer les données du vieux RPGBot.\n        Types des données valides en exportant:\n        - items\n        - personnages\n        - réglages\n        - guildes\n        - userdata",
+    "pt": "Subcomandos para importação de dados\n        Requer arquivo anexado\n        Importa dados do antigo RPGBot.\n        Tipos de dados válidos para exportar:\n        - iten\n        - personagens\n        - configuracoes\n        - guildas\n        - userdata"
   },
   "You must attach a file!": {
     "jp": "ファイルをメッセージに付けなければいけない！",
-    "fr": "Il faut attacher un fichier"
+    "fr": "Il faut attacher un fichier",
+    "pt": "Você deve anexar um arquivo!"
   },
   "Invalid choice!": {
-    "fr": "Choix invalide !"
+    "fr": "Choix invalide !",
+    "pt": "Escolha inválida!"
   },
   "Data loaded!": {
-    "fr": "Données chargées !"
+    "fr": "Données chargées !",
+    "pt": "Dados carregados!"
   },
   "Import data from old RPGBot.\n        Valid datatypes to import:\n        - items\n        - characters\n        - settings TODO\n        - salaries TODO\n        - lootboxes TODO\n        - shop TODO": {
+    "pt": "Importa dados do antigo RPGBot.\n        Tipos de dados válidos para importar:\n        - itens\n        - personagens\n        - configuracoes TODO\n        - salarios TODO\n        - lootboxes TODO\n        - shop TODO"
 
   },
   "Invalid datatype!": {
-
+    "pt": "Tipo de dado inválido!"
   },
   "Invalid type!": {
-
+    "pt": "Tipo inválido!"
   },
   "Data imported!": {
-    "fr": "Données importées"
+    "fr": "Données importées",
+    "pt": "Dados importados!"
   },
   "Import data from old RPGBot.\n        Valid datatypes to export:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata": {
-
+    "pt": "Importa dados do antigo RPGBot.\n        Tipos de dados válidos para exportar:\n        - itens\n        - personagens\n        - configracoes\n        - guildas\n        - userdata"
   },
   "No items!": {
-    "fr": "Aucun item !"
+    "fr": "Aucun item !",
+    "pt": "Sem itens!"
   },
   "No guilds!": {
-    "fr": "Aucune guilde !"
+    "fr": "Aucune guilde !",
+    "pt": "Sem guildas"
   },
   "You have no containers in your inventory!": {
-    "fr": "Vous n'avez pas de contenant dans votre inventaire !"
+    "fr": "Vous n'avez pas de contenant dans votre inventaire !",
+    "pt": "Você não possui contêineres no seu inventário!"
   }
 }
